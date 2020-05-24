@@ -1,0 +1,99 @@
+body{
+    background: url("pinkBackground.jpg") no-repeat fixed center/cover;
+    opacity: 1;
+    text-align: center;
+
+
+}
+
+
+#survey-title{
+    font-family: 'Lobster', helvetica, arial;
+    font-weight: bold;
+    font-size: 90px;
+
+
+}
+
+
+
+div {
+    border-style: solid;
+    width: 600px;
+    margin: auto;
+    text-align: left;
+    background-color: lavenderblush;
+
+
+}
+
+.solid2{
+    border-style: solid;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: lavenderblush;
+
+
+
+
+}
+
+.solid3{
+    width: 600px;
+
+}
+
+
+.center{
+    margin: auto;
+    text-align: center;
+}
+
+
+.button{
+    background-color: black;
+    border: solid;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    color:white;
+}
+
+.p1{
+    font-weight:bold ;
+    font-size: 20px;
+
+}
+
+
+
+.link{
+    font-size: 20px;
+}
+
+.signature{
+    text-align: end;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+
+
+.question-header{
+    text-align: center;
+    margin: auto;
+}
+
+.comments{
+    text-align: center;
+    margin: auto;
+
+}
+
+
+
+
+
+
+
